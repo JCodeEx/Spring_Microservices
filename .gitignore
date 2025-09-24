@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+*.iml
+
+# Maven build
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
