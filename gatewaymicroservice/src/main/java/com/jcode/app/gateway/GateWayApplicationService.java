@@ -8,11 +8,11 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  */
 @SpringBootApplication
 @EnableDiscoveryClient
-public class GateWayService
+public class GateWayApplicationService
 {
     public static void main( String[] args )
     {
-        SpringApplication.run(GateWayService.class, args);
+        SpringApplication.run(GateWayApplicationService.class, args);
         System.out.println( "Hello World!" );
     }
 }
