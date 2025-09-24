@@ -4,6 +4,7 @@
 *.ipr
 *.iws
 *.iml
+out/
 
 # Maven build
 target/
